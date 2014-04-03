@@ -1,0 +1,1 @@
+NS3_ARGUMENTS="/NodeList/*/DeviceList/0/DataRate/__DATARATE__:/ChannelList/0/Delay/__DELAY__"
